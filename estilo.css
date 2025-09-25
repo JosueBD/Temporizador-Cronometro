@@ -1,0 +1,24 @@
+body{
+	font-family:Inter,Arial,sans-serif;background:#f7f3ee;color:#222;margin:0;padding:20px
+}
+.app{
+	max-width:600px;margin:auto;display:grid;gap:20px
+}
+section{
+	background:#fff;padding:16px;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,0.08)
+}
+h2{
+	margin-top:0
+}
+.display{
+	font-size:32px;font-weight:bold;text-align:center;margin:12px 0
+}
+.controles{
+	display:flex;gap:10px;justify-content:center
+}
+button{
+	padding:8px 12px;border:none;border-radius:6px;cursor:pointer;background:#d4af37;color:#fff
+}
+input{
+	padding:6px;margin:4px;border:1px solid #ccc;border-radius:6px;width:100px
+}
